@@ -29,43 +29,43 @@ This project is was my spare time project apart from college. It is a windows ap
 
 ## Login Screen
 
-![](documentation/LoginPage.png)
+![](documentation/LoginPage.PNG)
 
 ## Main Page
 
-![](documentation/MainPage.png)
+![](documentation/MainPage.PNG)
 
 ## Adding Student
 
-![](documentation/AddStudent.png)
+![](documentation/AddStudent.PNG)
 
 ## Managing Students
 
-![](documentation/ManageStudents.png)
+![](documentation/ManageStudents.PNG)
 
 ## Managing Teachers
 
-![](documentation/ManageTeachers.png)
+![](documentation/ManageTeachers.PNG)
 
 ## Updating Marks
 
-![](documentation/UpdateMarks.png)
+![](documentation/UpdateMarks.PNG)
 
 ## Printing Marks Sheet
 
-![](documentation/MarksPrinting.png)
+![](documentation/MarksPrinting.PNG)
 
 ## Fees Payment
 
-![](documentation/FeesPayment.png)
+![](documentation/FeesPayment.PNG)
 
 ## Fees Receipts
 
-![](documentation/FeesReceipt.png)
+![](documentation/FeesReceipt.PNG)
 
 ## Managing serices provided by school
 
-![](documentation/UpdatingServices.png)
+![](documentation/UpdatingServices.PNG)
 
 # License
 This project is licensed under MIT License
